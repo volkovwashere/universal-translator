@@ -1,0 +1,1 @@
+from src.internal.ml_services.whisper.model import SpeechToText
